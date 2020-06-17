@@ -1,5 +1,5 @@
 ## Restaurant PHP
-This is and PHP application foe a restaurant with online booking
+This is a PHP application foe a restaurant with online booking
 ## Files
 In folder Restaurant you can find the code of the application.
 You will need an wamp server in order to run application locally.
